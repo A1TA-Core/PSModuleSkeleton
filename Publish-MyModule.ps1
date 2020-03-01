@@ -10,4 +10,4 @@ Invoke-ScriptAnalyzer -Path $PublishParams.Path
 
 Publish-Module @PublishParams
 
-Find-Module PSStackExchange
+Find-Module PSSkeletonModule
